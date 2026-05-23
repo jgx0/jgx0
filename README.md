@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jacob ([@jgx0](https://github.com/jgx0)) 👋
 
-<!--
-**jgx0/jgx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✈️ contact me
 
-Here are some ideas to get you started:
+## About me
+- Student
+- Entrepreneur, problem-solver, and maker
+- Based in the United States (New Jersey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me online
+- Website: [jacobg.co](https://jacobg.co)
+- GitHub: [github.com/jgx0](https://github.com/jgx0)
+
+## What I share
+- **Projects:** [jacobg.co/projects](https://www.jacobg.co/projects/)
+- **Articles:** [jacobg.co/blog](https://jacobg.co/blog/)
+- **Archives / reads:** [jacobg.co/archives](https://jacobg.co/archives/)
